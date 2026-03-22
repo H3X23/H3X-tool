@@ -1,4 +1,5 @@
  H3X-tool
- okuyunuz.
-ardından terminalde
-"python h3x-tool.py" yazarak çalıştirabilirsiniz
+ terminalde
+"python h3x-tool.py" yazarak çalıştirabilirsiniz.
+Ayrıca wordlist klasörüne wordlistlerinizi ekleyebilirsiniz.
+NOT : Bu toolu sadece yetkili olduğunuz sistemlerde deneyiniz.
